@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ChristalShaner
-- 👀 I’m interested in Scuba Diving, Poetry, Sudoku puzzles, and cooking!
-- 🌱 I’m currently learning query-based languages like SQL, Prolog, and R.
-- 💞️ I’m looking to collaborate on projects when I find the right team.
-- 📫 How to reach me: via email at christalshaner@gmail.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I speak many languages, not just programming ones...
+<img width="1834" alt="Make your README" src="https://github.com/ChristalShaner/ChristalShaner/assets/162538558/39e590da-22da-4594-bd55-4fc6536b1694">
+
 
 <!---
 ChristalShaner/ChristalShaner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
