@@ -8,8 +8,8 @@ I am a passionate self-taught programmer, data analyst, and UI/UX designer dedic
 
 
 
-Thank you, Mom
-- 💕 Christy
+Thank you, Mom 💕 
+
 
 <!---
 ChristalShaner/ChristalShaner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
