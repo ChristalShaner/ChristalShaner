@@ -3,7 +3,7 @@
 I am a passionate self-taught programmer, data analyst, and UI/UX designer dedicated to establishing a harmonious balance between nature and technology. In 2021, I was awarded the competitive Rudd Foundation Scholarship, allowing me to further my education at Wichita State University. I am forever grateful to them. My goal is to create impact wherever I may be, whether it be through accessible and interactive webpages, concise data summary reports, or innovative software. Some languages I love working with include HTML5/CSS, JavaScript, React/Material UI, Python3, C++, R, SQL, and SWI-Prolog. 
 
 # Find me on the Web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/christal-shaner/"»LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/christal-shaner/">LinkedIn</a> 💼
 
 
 
