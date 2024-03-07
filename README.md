@@ -6,7 +6,10 @@ I am a passionate self-taught programmer, data analyst, and UI/UX designer dedic
 - Sharing updates on <a href="https://www.linkedin.com/in/christal-shaner/"»LinkedIn</a> 💼
 
 
-<p style="font-family:'Courier New'">This is another paragraph.</p>
+
+
+Thank you, Mom
+💕 Christy
 
 <!---
 ChristalShaner/ChristalShaner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
