@@ -5,12 +5,6 @@ I am a passionate self-taught programmer, data analyst, and UI/UX designer dedic
 # Find me on the Web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/christal-shaner/">LinkedIn</a> 💼
 
-
-
-
-Thank you, Mom 💕 
-
-
 <!---
 ChristalShaner/ChristalShaner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
